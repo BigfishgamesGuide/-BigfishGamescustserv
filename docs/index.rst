@@ -17,12 +17,6 @@ How to Contact Big Fish Games Customer Service
 
 Big Fish Games provides customer support through its online Help Center. Customers can use the support center to find answers to common questions or submit a request to the customer service team.
 
-Official Customer Support
-~~~~~~~~~~~~~~~~~~~~~~~~~
-
-Visit the official Big Fish Games Customer Support Center:
-
-`Big Fish Games Customer Support <https://bigfishgames.zendesk.com/hc/en-us/>`_
 
 What Big Fish Games Customer Service Can Help With
 ---------------------------------------------------
@@ -80,7 +74,6 @@ Official Big Fish Games Support
 
 For the latest customer service information, use the official Big Fish Games Support Center:
 
-`Big Fish Games Customer Support <https://bigfishgames.zendesk.com/hc/en-us/>`_
 
 Using the official support website helps ensure that you are accessing current and reliable customer service information.
 
