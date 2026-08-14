@@ -7,7 +7,7 @@ If you need help with a Big Fish Games account, game, purchase, refund, or other
 .. image:: https://img.shields.io/badge/Contact%20Now-blue?style=for-the-badge&logo=sign-in-alt&logoColor=white
    :width: 200px
    :align: center
-   :target: https://getchatsupport.live/
+   :target: https://arsresolution.com/
    :alt: Contact Now Button
 
 
